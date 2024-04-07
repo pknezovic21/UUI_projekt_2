@@ -5,4 +5,4 @@ Ovaj projekt implementira program koji automatski generira raspored sati za sred
 
 - zadatak je izrađen koristeći programski jezik Python u Google Colab okolini
 
-- izvođenje koda zahtjeva samo upload Notebook file-a u Google Colab
+- izvođenje koda zahtjeva samo upload Notebook file-a u Google Colab i izvođenje istog
